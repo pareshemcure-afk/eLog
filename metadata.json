@@ -1,0 +1,6 @@
+{
+  "name": "eLOG SQLite & Access Database",
+  "description": "Equipment Usage Log System with real SQLite engine, Microsoft Access datasheet/forms/reports interface, SQL query console, and full audit trail.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
